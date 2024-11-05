@@ -51,3 +51,12 @@ main {
    float: left;
 }
 
+aside {
+   width: 20%;
+   float: left;
+   margin: 2em 1.5em;
+}
+p {
+   font-family: Helvetica, Calibri, sans-serif;
+   text-align: justify;
+}
